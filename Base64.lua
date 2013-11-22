@@ -5,6 +5,8 @@ NAME:             Base64
 PURPOSE:          Provides static functions for encoding and decoding
                   binary data using the Base64 algorithm.
 
+SUPPORT:          Phil Hanna
+
 NOTES:
 
   The details of Base64 encoding can be found in RFC 1521, section 5.2.
